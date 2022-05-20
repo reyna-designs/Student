@@ -10,6 +10,7 @@ import java.util.Scanner;
  */
 public class Student {
     
+    // comments added from git hub for pull operation
     private int studentId;
     private String studentName;
 
